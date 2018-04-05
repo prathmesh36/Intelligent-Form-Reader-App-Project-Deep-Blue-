@@ -32,17 +32,13 @@ Make sure your Android Phone and Local Machine are connected on same N/W.
 
 
 ## Demo
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="SS/main.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/formname.png" alt="Drawing" width="250" height="400"/>
+List of Templates          |Assigning Name to Form     |Croping Form               |
+:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="SS/main.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/formname.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/crop.png" alt="Drawing" width="250" height="400"/>  |
 
-<img src="SS/crop.png" alt="Drawing" width="250" height="400"/>
-
-<img src="SS/result1.png" alt="Drawing" width="250" height="400"/>
-
-<img src="SS/result2.png" alt="Drawing" width="250" height="400"/>
-
-<img src="SS/forms.png" alt="Drawing" width="250" height="400"/>
+Extraction Result 1        |Extraction Result 2        |List of Form               |
+:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="SS/result1.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/result2.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/forms.png" alt="Drawing" width="250" height="400"/>  |
 
 ## Built With
 
