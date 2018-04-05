@@ -33,7 +33,7 @@ Make sure your Android Phone and Local Machine are connected on same N/W.
 
 ## Demo
 
-![Alt text](SS/main.png =100x20?raw=true "Template Activity")
+![Alt text](SS/main.png =100x20)
 
 ## Built With
 
