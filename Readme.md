@@ -45,13 +45,17 @@ Extraction Result 1        |Extraction Result 2        |List of Form       
 <img src="SS/result1.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/result2.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/forms.png" alt="Drawing" width="250" height="400"/>  |
 
 ### How to extract details from a form (whose template is already created)? 
-List of Templates          |Assigning Name to Form     |Croping Form               |
+Capture Template           |Assigning Name to Template |Crop Template               |
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="SS/main.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/formname.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/crop.png" alt="Drawing" width="250" height="400"/>  |
+<img src="SS/CaptureT.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/Tname.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/Cropt.png" alt="Drawing" width="250" height="400"/>  |
 
-Extraction Result 1        |Extraction Result 2        |List of Form               |
+Select Field (By Touching) |Assign Name to Field       |Field Stored               |
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="SS/result1.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/result2.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/forms.png" alt="Drawing" width="250" height="400"/>  |
+<img src="SS/selectfield.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/assignfieldname.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/fieldstored.png" alt="Drawing" width="250" height="400"/>  |
+
+All Selected Field         |Template Stored            |
+:-------------------------:|:-------------------------:|
+<img src="SS/allfields.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/templatestored.png" alt="Drawing" width="250" height="400"/>  |
 
 #### Note:
 The System Supports sqaure shaped form fields to support more types of field modify the cropimage.py file in AndroidUploads/uploads/ Folder.
