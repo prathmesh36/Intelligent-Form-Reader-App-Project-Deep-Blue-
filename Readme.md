@@ -8,7 +8,7 @@ The solution should be flexible to work for different kinds of forms even if the
 
 ## Problem Statement
 
-The problem is to be able to build a software which will <strong>allow to set up of different types of forms</strong> in the system.
+The problem is to build a software which will <strong>allow to set up of different types of forms</strong> in the system.
 
 Based on the form which is set up, the solution needs to be able to recognise English Handwritten alphabets and numbers (block capitals) and store them as information.
 
