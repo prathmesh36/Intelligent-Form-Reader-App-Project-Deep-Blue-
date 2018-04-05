@@ -33,7 +33,17 @@ Make sure your Android Phone and Local Machine are connected on same N/W.
 
 ## Demo
 
-![Alt text](SS/main.png =100x20)
+<img src="SS/main.png" alt="Drawing" width="250" height="400"/>
+
+<img src="SS/formname.png" alt="Drawing" width="250" height="400"/>
+
+<img src="SS/crop.png" alt="Drawing" width="250" height="400"/>
+
+<img src="SS/result1.png" alt="Drawing" width="250" height="400"/>
+
+<img src="SS/result2.png" alt="Drawing" width="250" height="400"/>
+
+<img src="SS/forms.png" alt="Drawing" width="250" height="400"/>
 
 ## Built With
 
