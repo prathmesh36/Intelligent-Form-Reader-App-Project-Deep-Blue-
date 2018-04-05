@@ -51,14 +51,6 @@ The System Supports sqaure shaped form fields to support more types of field mod
 * [UCrop Android Library](https://github.com/Yalantis/uCrop) - Croping Android Image.
 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/prathmesh36/) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Prathamesh Mhapsekar** - *Initial work* - [prathmesh36](https://github.com/prathmesh36)
@@ -72,7 +64,3 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Mastek
-* Majesco
