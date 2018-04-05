@@ -32,10 +32,9 @@ Make sure your Android Phone and Local Machine are connected on same N/W.
 
 
 ## Demo
-
-<img src="SS/main.png" alt="Drawing" width="250" height="400"/>
-
-<img src="SS/formname.png" alt="Drawing" width="250" height="400"/>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="SS/main.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/formname.png" alt="Drawing" width="250" height="400"/>
 
 <img src="SS/crop.png" alt="Drawing" width="250" height="400"/>
 
