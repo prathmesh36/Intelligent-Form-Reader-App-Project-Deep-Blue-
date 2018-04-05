@@ -61,8 +61,9 @@ The System Supports sqaure shaped form fields to support more types of field mod
 
 ## Built With
 
+* [Andrid Camera2 API](https://developer.android.com/reference/android/hardware/camera2/package-summary.html)
 * [Google Cloud Vision](https://cloud.google.com/vision/) - Intelligent Text Recognition.
-* [UCrop Android Library](https://github.com/Yalantis/uCrop) - Croping Android Image.
+* [UCrop Library](https://github.com/Yalantis/uCrop) - Image Croping Library.
 
 
 ## Authors
