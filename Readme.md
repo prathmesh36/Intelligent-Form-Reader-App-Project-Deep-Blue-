@@ -69,7 +69,7 @@ The System Supports sqaure shaped form fields to support more types of field mod
 ## Authors
 
 * **Prathamesh Mhapsekar** - [prathmesh36](https://github.com/prathmesh36)
-* **Mandar Mhapsekar** - [mandar100](https://github.com/mandar100)
+* **Mandar Mhapsekar** - [mandar10](https://github.com/mandar10)
 * **Raj Patel** 
 * **Aniket Mhatre**
 
