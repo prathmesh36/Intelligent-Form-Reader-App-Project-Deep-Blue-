@@ -8,7 +8,7 @@ The solution should be flexible to work for different kinds of forms even if the
 
 ## Problem Statement
 
-The problem is to be able to build a software which will <strong>allow to set up of different types of forms</strong> in the system.
+The problem is to build a software which will <strong>allow to set up of different types of forms</strong> in the system.
 
 Based on the form which is set up, the solution needs to be able to recognise English Handwritten alphabets and numbers (block capitals) and store them as information.
 
@@ -34,15 +34,18 @@ Make sure your Android Phone and Local Machine are connected on same N/W.
 
 
 ## Demo
-
 ### How to create template(Structure) of a form?
-List of Templates          |Assigning Name to Form     |Croping Form               |
+Capture Template           |Assigning Name to Template |Crop Template               |
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="SS/main.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/formname.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/crop.png" alt="Drawing" width="250" height="400"/>  |
+<img src="SS/CaptureT.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/Tname.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/Cropt.png" alt="Drawing" width="250" height="400"/>  |
 
-Extraction Result 1        |Extraction Result 2        |List of Form               |
+Select Field (By Touching) |Assign Name to Field       |Field Stored               |
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="SS/result1.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/result2.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/forms.png" alt="Drawing" width="250" height="400"/>  |
+<img src="SS/selectfield.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/assignfieldname.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/fieldstored.png" alt="Drawing" width="250" height="400"/>  |
+
+All Selected Field         |Template Stored            |
+:-------------------------:|:-------------------------:|
+<img src="SS/allfields.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/templatestored.png" alt="Drawing" width="250" height="400"/>  |
 
 ### How to extract details from a form (whose template is already created)?
 List of Templates          |Assigning Name to Form     |Croping Form               |
@@ -58,16 +61,17 @@ The System Supports sqaure shaped form fields to support more types of field mod
 
 ## Built With
 
+* [Andrid Camera2 API](https://developer.android.com/reference/android/hardware/camera2/package-summary.html)
 * [Google Cloud Vision](https://cloud.google.com/vision/) - Intelligent Text Recognition.
-* [UCrop Android Library](https://github.com/Yalantis/uCrop) - Croping Android Image.
+* [UCrop Library](https://github.com/Yalantis/uCrop) - Image Croping Library.
 
 
 ## Authors
-
 * **Prathamesh Mhapsekar** - *Initial work* - [prathmesh36](https://github.com/prathmesh36)
 * **Mandar Mhapsekar** - *Initial work* - [mandar100](https://github.com/mandar100)
 * **Raj Patel**
 * **Aniket Mhatre**- *Initial work* - [aniketm07](https://github.com/aniketm07)
+
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
