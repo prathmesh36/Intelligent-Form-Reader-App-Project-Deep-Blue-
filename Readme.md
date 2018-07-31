@@ -22,7 +22,7 @@ There are a wide variety of OCR softwares in the market which allow to convert s
 * Open the string.xml file of value folder in Android Studio and change the IP Address String to the IP Address of your Local Machine.
 * Set up account on google cloud platform as well as you will also be required to give your billing details to set a billing account to avail the free service of Google Cloud Vision API. [Click Here](https://cloud.google.com/billing/docs/how-to/manage-billing-account) to know more.
 * Once the billing account is set get credentials for Google Cloud Vision and put it in the GVision Vendor folder.
-#### Note: 
+#### Note:
 Make sure your Android Phone and Local Machine are connected on same N/W.
 
 
@@ -44,7 +44,7 @@ Extraction Result 1        |Extraction Result 2        |List of Form       
 :-------------------------:|:-------------------------:|:-------------------------:|
 <img src="SS/result1.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/result2.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/forms.png" alt="Drawing" width="250" height="400"/>  |
 
-### How to extract details from a form (whose template is already created)? 
+### How to extract details from a form (whose template is already created)?
 List of Templates          |Assigning Name to Form     |Croping Form               |
 :-------------------------:|:-------------------------:|:-------------------------:|
 <img src="SS/main.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/formname.png" alt="Drawing" width="250" height="400"/>  |  <img src="SS/crop.png" alt="Drawing" width="250" height="400"/>  |
@@ -66,12 +66,11 @@ The System Supports sqaure shaped form fields to support more types of field mod
 
 * **Prathamesh Mhapsekar** - *Initial work* - [prathmesh36](https://github.com/prathmesh36)
 * **Mandar Mhapsekar** - *Initial work* - [mandar100](https://github.com/mandar100)
-* **Raj Patel** 
-* **Aniket Mhatre**
+* **Raj Patel**
+* **Aniket Mhatre**- *Initial work* - [aniketm07](https://github.com/aniketm07)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
